@@ -1,0 +1,11 @@
+{
+  "version": "0.1.1",
+  "notes": "Security Patch Update",
+  "pub_date": "2026-06-03T00:00:00Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUVE5yV1Y2TFlrZ3oyNUJCSU4rRXZFYWwzeE5URXc3S2xFZWlNRlFaMkFnTW0yc0VHS3RDWmwrYnNBUEg4TExQOFdBL3BMTFlRTFpsZ0tGSUZLMWF6dVloUGhBd3Z1UkE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwNDc2NTY2CWZpbGU6U2FuY3R1bV8wLjEuMV94NjRfZW4tVVMubXNpCnlaWnpKbWEvdStsU1RqMnRJOWhFYklWb000Si9ialhDM0Q5WTFseFRIVXlCM0pnV2FUNU5hYlJKaTNEQm9yUldwZXNZOXJsRDd6TTJmSktaWVhRZkJnPT0K",
+      "url": "https://github.com/senulahesara/sanctum-updates/releases/download/v0.1.1/Sanctum_0.1.1_x64_en-US.msi"
+    }
+  }
+}
